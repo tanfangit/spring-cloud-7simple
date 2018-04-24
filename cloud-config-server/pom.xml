@@ -62,6 +62,7 @@
 			<name>Public Repositories</name>
 			<url>http://10.0.12.207:8081/nexus/content/groups/public/</url>
 		</pluginRepository>
+<<<<<<< master
 	</pluginRepositories>    -->
 
 	<dependencies>
